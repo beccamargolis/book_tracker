@@ -1,3 +1,3 @@
 # book_tracker
 
-For my project I would like to create a book tracker for users to track books that they have read, share recommendations with others, rate books, etc. It would be comparable with the Goodreads app, but with enhanced features.  Wireframe in progress...
+For my project I would like to create a book tracker for users to track books that they have read, log their thoughts and ratings, etc.
